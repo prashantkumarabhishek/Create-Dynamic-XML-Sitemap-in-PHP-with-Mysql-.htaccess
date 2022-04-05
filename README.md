@@ -1,11 +1,15 @@
 # Create-Dynamic-XML-Sitemap-in-PHP-with-Mysql-.htaccess
 How to Create Dynamic XML Sitemap in PHP with Mysql &amp; .htaccess
 
+Visit my site for more PHP tutorials https://www.prashantabhishek.com/blog/category/tutorials/
+
 Take a Sample Database table which contains some URL list
 
 ![image](https://user-images.githubusercontent.com/5213239/161596259-5993a1c7-589b-4265-b6bb-f8dd4be054e7.png)
 
 Now connect the website with database using PHP database Connection
+
+// Visit my site for more PHP tutorials https://www.prashantabhishek.com/blog/category/tutorials/
 
 ![image](https://user-images.githubusercontent.com/5213239/161596523-71f1634c-cc91-4e59-936f-e50f210bc59f.png)
 
